@@ -1,10 +1,10 @@
 {
-   "id":"shadowdark-caampaign-stuff",
+   "id":"shadowdark-campaign-stuff",
    "title":"Shadowdark Campaign Stuff",
    "description":"Stuff for our Shadowdark campaign",
-   "url":"https://github.com/Rangertheman/shadowdark-caampaign-stuff",
-   "manifest":"https://raw.githubusercontent.com/Rangertheman/shadowdark-caampaign-stuff/master/module.json",
-   "download":"https://github.com/Rangertheman/shadowdark-caampaign-stuff/archive/master.zip",
+   "url":"https://github.com/Rangertheman/shadowdark-campaign-stuff",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/shadowdark-campaign-stuff/master/module.json",
+   "download":"https://github.com/Rangertheman/shadowdark-campaign-stuff/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.1",
+   "version":"0.0.2",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -38,7 +38,7 @@
          "path":"./packs/shadowdark-campaign-stuff.db",
          "type":"Adventure",
          "system":"shadowdark",
-         "banner":"./modules/shadowdark-caampaign-stuff/img/Cover_image.jpg"
+         "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
       }
    ]
 }
