@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.3",
+   "version":"0.0.4",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -31,14 +31,34 @@
          }
       ]
    },
+   "packFolders": [
+     {
+       "name": "Campaign Stuff",
+       "sorting": "a",
+       "color": "#a60d12",
+       "packs": [
+         "ancestries",
+         "languages"
+       ]
+     }
+   ],
    "packs":[
       {
-         "label":"Shadowdark Campaign Stuff",
-         "name":"shadowdark-campaign-stuff",
-         "path":"./packs/shadowdark-campaign-stuff.db",
-         "type":"Adventure",
+         "label":"Ancestries",
+         "name":"ancestries",
+         "path":"./packs/sancestries.db",
+         "type":"Item",
+         "system":"shadowdark",
+         "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
+      },
+      {
+         "label":"Languages",
+         "name":"languages",
+         "path":"./packs/languages.db",
+         "type":"Item",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
       }
+
    ]
 }
