@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.4",
+   "version":"0.0.5",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -46,16 +46,31 @@
       {
          "label":"Ancestries",
          "name":"ancestries",
-         "path":"./packs/sancestries.db",
+         "path":"./packs/ancestries.db",
          "type":"Item",
-         "system":"shadowdark",
-         "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
+         "system":"shadowdark"
       },
       {
          "label":"Languages",
          "name":"languages",
          "path":"./packs/languages.db",
          "type":"Item",
+         "system":"shadowdark"
+      },
+      {
+         "label":"Talents",
+         "name":"talents",
+         "path":"./packs/talents.db",
+         "type":"Item",
+         "system":"shadowdark",
+         "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
+      }
+   ,
+      {
+         "label":"Rollable Tables",
+         "name":"rollable-tables",
+         "path":"./packs/rollable-tables.db",
+         "type":"Rollable Table",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
       }
