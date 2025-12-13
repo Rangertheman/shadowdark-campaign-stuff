@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.5",
+   "version":"0.0.6",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -70,7 +70,7 @@
          "label":"Rollable Tables",
          "name":"rollable-tables",
          "path":"./packs/rollable-tables.db",
-         "type":"Rollable Table",
+         "type":"RollTable",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
       }

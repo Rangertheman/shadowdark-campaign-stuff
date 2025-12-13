@@ -1,16 +1,14 @@
-2025/12/13-14:32:43.414 6a8 Recovering log #3
-2025/12/13-14:32:43.414 6a8 Level-0 table #5: started
-2025/12/13-14:32:43.423 6a8 Level-0 table #5: 938 bytes OK
-2025/12/13-14:32:43.424 6a8 Delete type=0 #3
-2025/12/13-14:32:43.425 6a8 Delete type=3 #2
-2025/12/13-14:43:36.153 5cc4 Level-0 table #8: started
-2025/12/13-14:43:36.161 5cc4 Level-0 table #8: 1030 bytes OK
-2025/12/13-14:43:36.162 5cc4 Delete type=0 #6
-2025/12/13-14:43:36.164 5cc4 Manual compaction at level-0 from '!folders!nYcVZ9itekPiecz5' @ 72057594037927935 : 1 .. '!items!uydlrzEmlU26Uobi' @ 0 : 0; will stop at '!items!uydlrzEmlU26Uobi' @ 1 : 1
-2025/12/13-14:43:36.164 5cc4 Compacting 2@0 + 0@1 files
-2025/12/13-14:43:36.165 5cc4 Generated table #9@0: 2 keys, 1030 bytes
-2025/12/13-14:43:36.165 5cc4 Compacted 2@0 + 0@1 files => 1030 bytes
-2025/12/13-14:43:36.166 5cc4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/12/13-14:43:36.166 5cc4 Delete type=2 #5
-2025/12/13-14:43:36.166 5cc4 Delete type=2 #8
-2025/12/13-14:43:36.166 5cc4 Manual compaction at level-0 from '!items!uydlrzEmlU26Uobi' @ 1 : 1 .. '!items!uydlrzEmlU26Uobi' @ 0 : 0; will stop at (end)
+2025/12/13-14:50:49.973 5388 Recovering log #7
+2025/12/13-14:50:49.975 5388 Delete type=0 #7
+2025/12/13-14:50:49.975 5388 Delete type=3 #4
+2025/12/13-14:53:25.741 5cc4 Level-0 table #13: started
+2025/12/13-14:53:25.748 5cc4 Level-0 table #13: 1040 bytes OK
+2025/12/13-14:53:25.749 5cc4 Delete type=0 #11
+2025/12/13-14:53:25.759 5cc4 Manual compaction at level-0 from '!folders!nYcVZ9itekPiecz5' @ 72057594037927935 : 1 .. '!items!uydlrzEmlU26Uobi' @ 0 : 0; will stop at '!items!uydlrzEmlU26Uobi' @ 5 : 1
+2025/12/13-14:53:25.759 5cc4 Compacting 1@0 + 1@1 files
+2025/12/13-14:53:25.760 5cc4 Generated table #14@0: 2 keys, 1040 bytes
+2025/12/13-14:53:25.760 5cc4 Compacted 1@0 + 1@1 files => 1040 bytes
+2025/12/13-14:53:25.761 5cc4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/13-14:53:25.761 5cc4 Delete type=2 #9
+2025/12/13-14:53:25.761 5cc4 Delete type=2 #13
+2025/12/13-14:53:25.763 5cc4 Manual compaction at level-0 from '!items!uydlrzEmlU26Uobi' @ 5 : 1 .. '!items!uydlrzEmlU26Uobi' @ 0 : 0; will stop at (end)
