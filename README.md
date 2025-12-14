@@ -1,1 +1,1 @@
-# mugdulblub-shadowdark
+# Stuff for our Shadowdark campaign - For personal use only

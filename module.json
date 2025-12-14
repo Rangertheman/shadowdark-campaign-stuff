@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.7",
+   "version":"0.0.8",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -26,7 +26,7 @@
             "type":"system",
             "compatibility":{
                "minimum":"3.6.0",
-               "verified":"3.6.0"
+               "verified":"3.6.1"
             }
          }
       ]
@@ -64,8 +64,7 @@
          "name":"talents",
          "path":"./packs/talents.db",
          "type":"Item",
-         "system":"shadowdark",
-         "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
+         "system":"shadowdark"
       }
    ,
       {
@@ -73,8 +72,7 @@
          "name":"rollable-tables",
          "path":"./packs/rollable-tables.db",
          "type":"RollTable",
-         "system":"shadowdark",
-         "banner":"./modules/shadowdark-campaign-stuff/img/Cover_image.jpg"
+         "system":"shadowdark"
       }
 
    ]
