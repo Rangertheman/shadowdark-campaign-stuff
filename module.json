@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.10",
+   "version":"0.0.11",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -66,14 +66,6 @@
          "path":"./packs/talents.db",
          "type":"Item",
          "system":"shadowdark"
-      }
-   ,
-      {
-         "label":"Rollable Tables",
-         "name":"rollable-tables",
-         "path":"./packs/rollable-tables.db",
-         "type":"RollTable",
-         "system":"shadowdark"
       },
       {
          "label":"Rollable Tables",
@@ -89,6 +81,5 @@
          "type":"Adventure",
          "system":"shadowdark"
       }
-
    ]
 }
