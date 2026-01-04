@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.8",
+   "version":"0.0.9",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -40,7 +40,8 @@
          "ancestries",
          "languages",
          "talents",
-         "rollable-tables"
+         "rollable-tables",
+         "river-of-night"
        ]
      }
    ],
@@ -72,6 +73,20 @@
          "name":"rollable-tables",
          "path":"./packs/rollable-tables.db",
          "type":"RollTable",
+         "system":"shadowdark"
+      },
+      {
+         "label":"Rollable Tables",
+         "name":"rollable-tables",
+         "path":"./packs/rollable-tables.db",
+         "type":"RollTable",
+         "system":"shadowdark"
+      },
+      {
+         "label":"River of Night",
+         "name":"river-of-night",
+         "path":"./packs/river-of-night.db",
+         "type":"Adventure",
          "system":"shadowdark"
       }
 
