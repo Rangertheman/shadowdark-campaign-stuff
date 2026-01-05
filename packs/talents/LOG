@@ -1,7 +1,0 @@
-2025/12/14-17:40:17.993 5214 Recovering log #33
-2025/12/14-17:40:17.996 5214 Delete type=0 #33
-2025/12/14-17:40:17.996 5214 Delete type=3 #31
-2025/12/14-17:42:59.366 70a4 Level-0 table #38: started
-2025/12/14-17:42:59.366 70a4 Level-0 table #38: 0 bytes OK
-2025/12/14-17:42:59.366 70a4 Delete type=0 #36
-2025/12/14-17:42:59.367 70a4 Manual compaction at level-0 from '!folders!nYcVZ9itekPiecz5' @ 72057594037927935 : 1 .. '!items!uydlrzEmlU26Uobi' @ 0 : 0; will stop at (end)
