@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.1.42",
+   "version":"0.1.43",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -69,7 +69,7 @@
          "path":"./packs/diablerie.db",
          "type":"Adventure",
          "system":"shadowdark",
-         "banner":"./modules/shadowdark-campaign-stuff/img/diablerie-cover.jpg"
+         "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%201%20-%20Diablerie/diablerie-cover.jpg"
       }
    ]
 }
