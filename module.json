@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.1.4",
+   "version":"0.1.41",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -49,6 +49,7 @@
        "sorting": "a",
        "color": "#a60d12",
        "packs": [
+         "diablerie",
          "river-of-night"
        ]
      }
@@ -61,6 +62,14 @@
          "type":"Adventure",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/river-of-night-cover.jpg"
+      },
+      {
+         "label":"Diablerie",
+         "name":"diablerie",
+         "path":"./packs/diablerie.db",
+         "type":"Adventure",
+         "system":"shadowdark",
+         "banner":"./modules/shadowdark-campaign-stuff/img/diablerie-cover.jpg"
       }
    ]
 }
