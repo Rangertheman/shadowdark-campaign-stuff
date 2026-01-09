@@ -1,15 +1,15 @@
-2026/01/09-20:43:13.687 e054 Recovering log #86
-2026/01/09-20:43:13.689 e054 Delete type=0 #86
-2026/01/09-20:43:13.689 e054 Delete type=3 #84
-2026/01/09-20:47:56.516 ebb4 Level-0 table #91: started
-2026/01/09-20:47:56.527 ebb4 Level-0 table #91: 123795 bytes OK
-2026/01/09-20:47:56.528 ebb4 Delete type=0 #89
-2026/01/09-20:47:56.529 ebb4 Manual compaction at level-0 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
-2026/01/09-20:47:56.529 ebb4 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at '!adventures!OJTN4o66x4r2xc4s' @ 19 : 1
-2026/01/09-20:47:56.529 ebb4 Compacting 1@1 + 1@2 files
-2026/01/09-20:47:56.542 ebb4 Generated table #92@1: 1 keys, 123795 bytes
-2026/01/09-20:47:56.542 ebb4 Compacted 1@1 + 1@2 files => 123795 bytes
-2026/01/09-20:47:56.542 ebb4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/09-20:47:56.543 ebb4 Delete type=2 #51
-2026/01/09-20:47:56.543 ebb4 Delete type=2 #91
-2026/01/09-20:47:56.546 ebb4 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 19 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
+2026/01/09-20:50:03.434 adbc Recovering log #90
+2026/01/09-20:50:03.436 adbc Delete type=0 #90
+2026/01/09-20:50:03.436 adbc Delete type=3 #88
+2026/01/09-20:55:10.424 ebb4 Level-0 table #96: started
+2026/01/09-20:55:10.435 ebb4 Level-0 table #96: 123703 bytes OK
+2026/01/09-20:55:10.436 ebb4 Delete type=0 #94
+2026/01/09-20:55:10.437 ebb4 Manual compaction at level-0 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
+2026/01/09-20:55:10.437 ebb4 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at '!adventures!OJTN4o66x4r2xc4s' @ 20 : 1
+2026/01/09-20:55:10.437 ebb4 Compacting 1@1 + 1@2 files
+2026/01/09-20:55:10.446 ebb4 Generated table #97@1: 1 keys, 123703 bytes
+2026/01/09-20:55:10.446 ebb4 Compacted 1@1 + 1@2 files => 123703 bytes
+2026/01/09-20:55:10.447 ebb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/09-20:55:10.447 ebb4 Delete type=2 #92
+2026/01/09-20:55:10.447 ebb4 Delete type=2 #96
+2026/01/09-20:55:10.453 ebb4 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 20 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
