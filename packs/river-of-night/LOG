@@ -1,15 +1,15 @@
-2026/01/09-19:51:08.974 1568 Recovering log #258
-2026/01/09-19:51:08.977 1568 Delete type=0 #258
-2026/01/09-19:51:08.977 1568 Delete type=3 #256
-2026/01/09-20:06:17.666 ebb4 Level-0 table #263: started
-2026/01/09-20:06:17.671 ebb4 Level-0 table #263: 103776 bytes OK
-2026/01/09-20:06:17.672 ebb4 Delete type=0 #261
-2026/01/09-20:06:17.673 ebb4 Manual compaction at level-0 from '!adventures!TNaJufQu5RZbBQwv' @ 72057594037927935 : 1 .. '!adventures!TNaJufQu5RZbBQwv' @ 0 : 0; will stop at (end)
-2026/01/09-20:06:17.673 ebb4 Manual compaction at level-1 from '!adventures!TNaJufQu5RZbBQwv' @ 72057594037927935 : 1 .. '!adventures!TNaJufQu5RZbBQwv' @ 0 : 0; will stop at '!adventures!TNaJufQu5RZbBQwv' @ 60 : 1
-2026/01/09-20:06:17.673 ebb4 Compacting 1@1 + 1@2 files
-2026/01/09-20:06:17.677 ebb4 Generated table #264@1: 1 keys, 103776 bytes
-2026/01/09-20:06:17.677 ebb4 Compacted 1@1 + 1@2 files => 103776 bytes
-2026/01/09-20:06:17.678 ebb4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/09-20:06:17.678 ebb4 Delete type=2 #231
-2026/01/09-20:06:17.678 ebb4 Delete type=2 #263
-2026/01/09-20:06:17.680 ebb4 Manual compaction at level-1 from '!adventures!TNaJufQu5RZbBQwv' @ 60 : 1 .. '!adventures!TNaJufQu5RZbBQwv' @ 0 : 0; will stop at (end)
+2026/01/09-20:43:13.677 1568 Recovering log #267
+2026/01/09-20:43:13.679 1568 Delete type=0 #267
+2026/01/09-20:43:13.680 1568 Delete type=3 #265
+2026/01/09-20:47:56.504 ebb4 Level-0 table #273: started
+2026/01/09-20:47:56.507 ebb4 Level-0 table #273: 103975 bytes OK
+2026/01/09-20:47:56.509 ebb4 Delete type=0 #271
+2026/01/09-20:47:56.510 ebb4 Manual compaction at level-0 from '!adventures!TNaJufQu5RZbBQwv' @ 72057594037927935 : 1 .. '!adventures!TNaJufQu5RZbBQwv' @ 0 : 0; will stop at (end)
+2026/01/09-20:47:56.510 ebb4 Manual compaction at level-1 from '!adventures!TNaJufQu5RZbBQwv' @ 72057594037927935 : 1 .. '!adventures!TNaJufQu5RZbBQwv' @ 0 : 0; will stop at '!adventures!TNaJufQu5RZbBQwv' @ 62 : 1
+2026/01/09-20:47:56.510 ebb4 Compacting 1@1 + 1@2 files
+2026/01/09-20:47:56.515 ebb4 Generated table #274@1: 1 keys, 103975 bytes
+2026/01/09-20:47:56.515 ebb4 Compacted 1@1 + 1@2 files => 103975 bytes
+2026/01/09-20:47:56.515 ebb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/09-20:47:56.515 ebb4 Delete type=2 #269
+2026/01/09-20:47:56.516 ebb4 Delete type=2 #273
+2026/01/09-20:47:56.529 ebb4 Manual compaction at level-1 from '!adventures!TNaJufQu5RZbBQwv' @ 62 : 1 .. '!adventures!TNaJufQu5RZbBQwv' @ 0 : 0; will stop at (end)
