@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.2.25",
+   "version":"0.2.26",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -66,8 +66,8 @@
       },
       {
          "label":"Midnight Sun",
-         "name":"midnigh-sun",
-         "path":"./packs/midnigh-sun.db",
+         "name":"midnight-sun",
+         "path":"./packs/midnight-sun.db",
          "type":"Adventure",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%203%20-%20Midnight%20Sun/midnight-sun-cover.jpg"
