@@ -1,15 +1,8 @@
-2026/01/09-12:47:25.448 473c Recovering log #45
-2026/01/09-12:47:25.449 473c Delete type=0 #45
-2026/01/09-12:47:25.450 473c Delete type=3 #43
-2026/01/09-12:56:03.951 63a8 Level-0 table #50: started
-2026/01/09-12:56:03.972 63a8 Level-0 table #50: 247439 bytes OK
-2026/01/09-12:56:03.973 63a8 Delete type=0 #48
-2026/01/09-12:56:03.974 63a8 Manual compaction at level-0 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
-2026/01/09-12:56:03.974 63a8 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at '!adventures!OJTN4o66x4r2xc4s' @ 17 : 1
-2026/01/09-12:56:03.974 63a8 Compacting 1@1 + 1@2 files
-2026/01/09-12:56:03.986 63a8 Generated table #51@1: 1 keys, 123776 bytes
-2026/01/09-12:56:03.986 63a8 Compacted 1@1 + 1@2 files => 123776 bytes
-2026/01/09-12:56:03.987 63a8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/09-12:56:03.987 63a8 Delete type=2 #42
-2026/01/09-12:56:03.987 63a8 Delete type=2 #50
-2026/01/09-12:56:04.000 63a8 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 17 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
+2026/01/09-19:51:08.984 adbc Recovering log #78
+2026/01/09-19:51:08.986 adbc Delete type=0 #78
+2026/01/09-19:51:08.986 adbc Delete type=3 #76
+2026/01/09-20:06:17.877 ebb4 Level-0 table #83: started
+2026/01/09-20:06:17.877 ebb4 Level-0 table #83: 0 bytes OK
+2026/01/09-20:06:17.884 ebb4 Delete type=0 #81
+2026/01/09-20:06:17.886 ebb4 Manual compaction at level-0 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
+2026/01/09-20:06:17.886 ebb4 Manual compaction at level-1 from '!adventures!OJTN4o66x4r2xc4s' @ 72057594037927935 : 1 .. '!adventures!OJTN4o66x4r2xc4s' @ 0 : 0; will stop at (end)
