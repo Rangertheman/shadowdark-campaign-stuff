@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.2.0",
+   "version":"0.2.1",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -50,6 +50,7 @@
        "color": "#a60d12",
        "packs": [
          "diablerie",
+         "midnigh-sun",
          "river-of-night"
        ]
      }
@@ -62,6 +63,14 @@
          "type":"Adventure",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/river-of-night-cover.jpg"
+      },
+      {
+         "label":"Midnight Sun",
+         "name":"midnigh-sun",
+         "path":"./packs/midnigh-sun.db",
+         "type":"Adventure",
+         "system":"shadowdark",
+         "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%203%20-%20Midnight%20Sun/midnight-sun-cover.jpg"
       },
       {
          "label":"Diablerie",
