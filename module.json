@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.2.32",
+   "version":"0.3.0",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -36,7 +36,7 @@
             "type":"module",
             "compatibility":{
                "minimum":"4.10",
-               "verified":"4.181"
+               "verified":"4.19"
             }
 
          }
