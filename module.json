@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.3.0",
+   "version":"0.3.11",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -36,7 +36,7 @@
             "type":"module",
             "compatibility":{
                "minimum":"4.10",
-               "verified":"4.19"
+               "verified":"4.70"
             }
 
          }
@@ -50,6 +50,7 @@
        "color": "#a60d12",
        "packs": [
          "diablerie",
+         "red-sands",
          "midnigh-sun",
          "river-of-night"
        ]
@@ -79,6 +80,14 @@
          "type":"Adventure",
          "system":"shadowdark",
          "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%201%20-%20Diablerie/diablerie-cover.jpg"
+      },
+      {
+         "label":"Red Sands",
+         "name":"red-sands",
+         "path":"./packs/red-sands.db",
+         "type":"Adventure",
+         "system":"shadowdark",
+         "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%202%20-%20Red%20Sands/red-sands-cover.jpg"
       }
    ]
 }
