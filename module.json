@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.3.14",
+   "version":"0.3.15",
    "compatibility":{
       "minimum":"13",
       "verified":"13"
@@ -58,7 +58,7 @@
    ],
    "packs":[
       {
-         "label":"River of Night",
+         "label":"Cursed Scroll #4: River of Night",
          "name":"river-of-night",
          "path":"./packs/river-of-night.db",
          "type":"Adventure",
@@ -66,7 +66,7 @@
          "banner":"./modules/shadowdark-campaign-stuff/img/river-of-night-cover.jpg"
       },
       {
-         "label":"Midnight Sun",
+         "label":"Cursed Scroll #3: Midnight Sun",
          "name":"midnight-sun",
          "path":"./packs/midnight-sun.db",
          "type":"Adventure",
@@ -74,7 +74,7 @@
          "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%203%20-%20Midnight%20Sun/midnight-sun-cover.jpg"
       },
       {
-         "label":"Diablerie",
+         "label":"Cursed Scroll #1: Diablerie",
          "name":"diablerie",
          "path":"./packs/diablerie.db",
          "type":"Adventure",
@@ -82,7 +82,7 @@
          "banner":"./modules/shadowdark-campaign-stuff/img/Cursed%20Scroll%201%20-%20Diablerie/diablerie-cover.jpg"
       },
       {
-         "label":"Red Sands",
+         "label":"Cursed Scroll #2: Red Sands",
          "name":"red-sands",
          "path":"./packs/red-sands.db",
          "type":"Adventure",
